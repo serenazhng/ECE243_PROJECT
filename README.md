@@ -1,5 +1,5 @@
 # ECE243_PROJECT
-Memory Game coded using C++ for implementation on a VGA using an FPGA board for my final project for ECE243
+Memory Game coded using C for implementation on a VGA using an FPGA board for my final project for ECE243
 
 MEMORY MANIA
 Description 
